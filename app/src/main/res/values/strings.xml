@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TOURIST APP</string>
+    <string name="main">Main</string>
+    <string name="imager">Imager</string>
+    <string name="location">Location</string>
+    <string name="justname">HI</string>
+    <string-array name="options">
+        <item><font size="20"> KERALA </font></item>
+        <item><font size="20">TAMIL NADU </font></item>
+        <item><font size="20">RAJASTHAN </font></item>
+        <item><font size="20">UTTAR PRADESH</font></item>
+        <item><font size="20">DELHI</font></item>
+        <item><font size="20">PUNJAB</font></item>
+        <item><font size="20">GOA</font></item>
+
+    </string-array>
+    <string name="title_activity_drawer_layout">DrawerLayout</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+</resources>
